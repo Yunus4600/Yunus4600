@@ -1,16 +1,26 @@
-## Hi there 👋
+**Hi there, I'm Mohammed Yunus** 
 
-<!--
-**Yunus4600/Yunus4600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA Final Year Student | 💻 Software & Web Developer | 🤖 AI Enthusiast
 
-Here are some ideas to get you started:
+ **About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 Built a Secure Campus App using the MERN Stack
+- 🏨 Developed a Hostel Management System in VB.NET & MS SQL
+- 🐟 Currently building a fish shop website with AI chatbot integration
+- 📱 Exploring Android Development using Kotlin + Jetpack Compose
+- 📈 Learning forex bot development using MetaTrader5 API
+
+ **Interests**
+
+- AI Research & Prompt Engineering
+- Full-Stack & Mobile App Development
+- Automation with Python & Selenium
+- UI/UX for Modern Web & Mobile Apps
+
+** Connect with Me**
+
+- [LinkedIn](https://www.linkedin.com/in/mohammedyunus)
+- [GitHub](https://github.com/mohammedyunus)
+- [Instagram](https://instagram.com/YOUR_USERNAME)
+
+
