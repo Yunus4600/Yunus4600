@@ -22,7 +22,7 @@ I am a recent BCA graduate passionate about building innovative software solutio
 | :--- | :--- |
 | **Full Stack** | MERN (MongoDB, Express, React, Node.js), Web Programming, Internet Technologies, Visual Programming |
 | **Mobile** | Android Development, Mobile Application Development (Vocational) |
-| **Programming** | Python, Java, C, C++ |
+| **Programming** | Python, Java, C, C++,JS|
 | **Databases** | Database Management System (DBMS), Data Warehousing and Data Mining |
 | **AI/ML & Concepts** | Artificial Intelligence, Cloud Computing, Basic Concepts of Blockchain, Cyber Security |
 | **Core Concepts** | Software Engineering, Operating System (Linux), Data Structures, Design and Analysis of Algorithms, Automation Testing |
@@ -35,13 +35,6 @@ I am a recent BCA graduate passionate about building innovative software solutio
 * **GitHub:** [@yunus4600](https://github.com/yunus4600)
 * **LinkedIn/Other Socials:** *(https://www.linkedin.com/in/mohammed-yunus-4t6)*
 
----
 
-### 📊 GitHub Stats (Optional Badges)
-
-*(You can replace the placeholders below with live links to showcase your activity. Change `yunus4600` if your GitHub username is different.)*
-
-[![Yunus's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunus4600&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunus4600&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
