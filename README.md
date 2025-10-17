@@ -12,7 +12,7 @@ I am a recent BCA graduate passionate about building innovative software solutio
 
 * **Education:** Bachelor of Computer Applications (BCA) from Kristu Jayanti College, Bengaluru (2022–2025).
 * **CGPA:** 8.1
-* **Expertise:** Strong focus on **MERN stack development** and **Android development**, with a solid foundation in programming, software development, and basic data structures and algorithms.
+* **Expertise:** Strong focus on **Full stack development** and **Android development**, with a solid foundation in programming, software development, and basic data structures and algorithms.
 * **Key Project Highlight:** Successfully completed an **AI-based Email Assistant** project utilizing the **Gemini API**.
 * **Experience:** Completed internships and practical projects in software engineering, full-stack development, and AI applications.
 
