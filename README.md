@@ -22,7 +22,7 @@ I am a recent BCA graduate passionate about building innovative software solutio
 | :--- | :--- |
 | **Full Stack** | MERN (MongoDB, Express, React, Node.js), Web Programming, Internet Technologies, Visual Programming |
 | **Mobile** | Android Development, Mobile Application Development (Vocational) |
-| **Programming** | Python, Java, C, C++,JS|
+| **Programming** | Python, Java, C, C++, JS|
 | **Databases** | Database Management System (DBMS), Data Warehousing and Data Mining |
 | **AI/ML & Concepts** | Artificial Intelligence, Cloud Computing, Basic Concepts of Blockchain, Cyber Security |
 | **Core Concepts** | Software Engineering, Operating System (Linux), Data Structures, Design and Analysis of Algorithms, Automation Testing |
