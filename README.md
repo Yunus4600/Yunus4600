@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eb9f4b31-2d67-4e3f-9944-51a00349f7f3" />
+
+
 **Hi there, I'm Mohammed Yunus** 
 
 BCA Final Year Student | 💻 Software & Web Developer | 🤖 AI Enthusiast
